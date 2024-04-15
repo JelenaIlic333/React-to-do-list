@@ -44,7 +44,7 @@ function ToDoList(){
             
             <div className='to-do-list'>
 
-                <h1>To-Do-List</h1>
+                <h1>To-Do-Lista</h1>
 
                 <div>
                     <input
